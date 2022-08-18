@@ -17,3 +17,11 @@ Typer
 `python netcalc.py netinfo --help`
 
 `python netcalc.py subnet --help`
+
+![help_menus](https://github.com/TyrelCB/pynetcalc/blob/main/help_menus.png)
+
+`python3 netcalc.py netinfo 10.20.30.40/22`
+
+`python3 netcalc.py subnet 10.20.30.40/22 --new-prefix /25`
+
+![example](https://github.com/TyrelCB/pynetcalc/blob/main/examples.png)
